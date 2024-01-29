@@ -1,0 +1,11 @@
+numpy
+pandas
+matplotlib
+scipy
+seaborn
+nltk
+langdetect
+spacy
+transformers
+torch
+PyMuPDF 
